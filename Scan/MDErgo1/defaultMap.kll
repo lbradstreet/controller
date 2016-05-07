@@ -65,9 +65,9 @@ ISSILedBrightness1 = "
 # In practice, it may be difficult to get color consistency at times if too bright or too dim
 #
 # Defaults to 6% brightness, white
-STLcdBacklightRed   = 0x0FFF;
-STLcdBacklightGreen = 0x0FFF;
-STLcdBacklightBlue  = 0x0FFF;
+STLcdBacklightRed   = 0x02FF;
+STLcdBacklightGreen = 0x02FF;
+STLcdBacklightBlue  = 0x02FF;
 
 # LCD Image Override
 #
